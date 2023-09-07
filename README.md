@@ -1,2 +1,2 @@
 # legendary-fishstick
-E-commerce website design with html, css, bootstrap and javascript.
+Blog website design with html, css and bootstrap.
