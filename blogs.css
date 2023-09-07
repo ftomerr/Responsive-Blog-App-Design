@@ -1,0 +1,10 @@
+.card-img-left {
+    object-fit: cover;
+}
+
+@media (max-width: 992px) {
+    .card-img-left {
+        height: 100%;
+        width: 50vw;
+    }
+}
